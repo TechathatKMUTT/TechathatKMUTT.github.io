@@ -11,17 +11,17 @@ For Machine Learning OPS
 
 ---
 
-**EDUCATION & EXCHANGE PROGRAMS**
+# EDUCATION & EXCHANGE PROGRAMS
 
-King Mongkut's University of Technology Thonburi (KMUTT) • Bangkok, Thailand
+## King Mongkut's University of Technology Thonburi (KMUTT) • Bangkok, Thailand
 
 Aug. 2021 - present
 
 Bachelor of Computer Engineering; Expected graduation date: May 2025
 
+ 
 
-
-The University of Texas at Austin • Austin, Texas
+## The University of Texas at Austin • Austin, Texas
 
 Sept. 2022 - Oct. 2022
 
@@ -29,9 +29,9 @@ Exchange Program through the Young Southeast Asian Leaders Initiative (YSEALI) m
 
 ---
 
-**PROFESSIONAL EXPERIENCE**
+# PROFESSIONAL EXPERIENCE
 
-Undergraduate Research Intern
+## Undergraduate Research Intern
 
 Apr. 2024 - Aug. 2024
 
